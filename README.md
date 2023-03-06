@@ -2,6 +2,15 @@ This repository contains the configuration files, simulation routines and plotti
 the paper `A PDE-Constrained Generalized Nash Equilibrium Approach
 for Modeling Gas Markets with Transport` by Grimm et al.
 
+## Setup
+
+To install the required dependencies for the julia code, from the toplevel directory run
+```
+julia --project=./julia
+] instantiate
+```
+Follow the instruction at https://github.com/jump-dev/Gurobi.jl to setup `Gurobi.jl`
+
 ## Running the simulations
 
 In each directory under `cfgs`, run
