@@ -1,0 +1,1 @@
+{"Gurobi":{"BarConvTol":1.0e-6},"CPLEX":{"CPXPARAM_Barrier_Display":2,"CPXPARAM_Barrier_ConvergeTol":1.0e-9}}

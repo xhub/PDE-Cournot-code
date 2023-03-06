@@ -1,0 +1,14 @@
+name = "PDE_Cournot"
+uuid = "ebd97c2e-bad6-4f75-8b27-8ef6efb2f3e7"
+authors = ["Olivier Huber <oli.huber@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
